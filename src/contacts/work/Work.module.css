@@ -1,0 +1,23 @@
+.work {
+    width: 250px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #c1c7c7;
+    align-items: center;
+    text-align: center;
+}
+
+.description{}
+
+
+
+.icon{
+    width: 100%;
+    height: 200px;
+    background-color: #eaddbc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
